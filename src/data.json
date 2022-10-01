@@ -1,0 +1,112 @@
+[
+    {
+      "_id": "5b21ca3eeb7f6fbccd471815",
+      "name": "dfgdg",
+      "color":"white" ,
+      "type":"Hoodies" ,
+      "size":"S",
+      "numberInStock": 6,
+      "price": 25.00,
+      "image":"https://media.istockphoto.com/photos/mens-white-blank-hoodie-templatefrom-two-sides-natural-shape-on-for-picture-id1177415732?k=20&m=1177415732&s=612x612&w=0&h=JrZQImelkaFAeMo3aBs_LkiETFJDcslbXGSG6qNOtas="
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd4718159",
+      "name": "NewWorld",
+      "color":"white" ,
+      "type":"Hoodies" ,
+      "size":"S",
+      "numberInStock": 5,
+      "price": 225.00,
+      "image":"https://media.istockphoto.com/photos/white-hoodie-template-picture-id1179816012?k=20&m=1179816012&s=612x612&w=0&h=BOdSzQkEo5p7CBeswohaSzNvX724Mu8nqwtfnla0t6g="
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd47181549",
+      "name": "NewWorld",
+      "color":"white" ,
+      "type":"Hoodies" ,
+      "size":"S",
+      "numberInStock": 5,
+      "price": 2253.00,
+      "image":"https://media.istockphoto.com/photos/white-hoodie-template-picture-id1179816012?k=20&m=1179816012&s=612x612&w=0&h=BOdSzQkEo5p7CBeswohaSzNvX724Mu8nqwtfnla0t6g="
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd471816",
+      "name": "dfgd",
+      "color":"yellow" ,
+      "type":"Hoodies" ,
+      "size":"XL",
+      "numberInStock": 6,
+      "price": 245.00,
+      "image":"https://5.imimg.com/data5/SELLER/Default/2020/12/TW/MU/OF/36043037/jd-16-5-500x500.jpg"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd471817",
+      "name": "dfgd",
+      "color":"black" ,
+      "type":"Hoodies" ,
+      "size":"XL",
+      "numberInStock": 6,
+      "price": 99.00,
+      "image":"https://5.imimg.com/data5/NE/XK/SR/SELLER-5436597/man-black-hoodies-500x500.jpg"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd4718129",
+      "name": "new shirn",
+      "color":"white" ,
+      "type":"T-Shirts" ,
+      "size":"S",
+      "numberInStock": 3,
+      "price": 165.00,
+      "image":"https://5.imimg.com/data5/IN/EK/BA/SELLER-30607000/plain-white-t-shirts-500x500.jpg"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd4718120",
+      "name": "asdsadasd",
+      "color":"yellow" ,
+      "type":"T-Shirts" ,
+      "size":"XL",
+      "numberInStock": 3,
+      "price": 625.00,
+      "image":"https://5.imimg.com/data5/FW/GT/MY-23375112/men-s-yellow-color-t-shirt-500x500.jpg"
+    },
+    {
+      "_id": "5b21ca3eeb7h6fbccd4718125",
+      "name": "dfgdg",
+      "color":"black" ,
+      "type":"T-Shirts" ,
+      "size":"M",
+      "numberInStock": 3,
+      "price": 635.00,
+      "image":"https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F40%2F71%2F4071b4a39844344e1de770b4a494ba7e3078219d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd4718125",
+      "name": "fdfg",
+      "color":"white" ,
+      "type":"Shirts" ,
+      "size":"S",
+      "numberInStock": 3,
+      "price": 65.00,
+      "image":"https://media.gq.com/photos/6255d1d1ba43445cbf897968/master/w_2000,h_1333,c_limit/shirt-7.jpg"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd4718725",
+      "name": "asdasd",
+      "color":"yellow" ,
+      "type":"Shirt" ,
+      "size":"M",
+      "numberInStock": 3,
+      "price": 654.00,
+      "image":"https://5.imimg.com/data5/EH/PF/KZ/SELLER-36061687/12-22-03-mens-yellow-shirt-500x500-500x500.jpg"
+    },
+    {
+      "_id": "5b21ca3eeb7f6fbccd4718825",
+      "name": "asdasda",
+      "color":"black" ,
+      "type":"Shirt" ,
+      "size":"XL",
+      "numberInStock": 3,
+      "price": 6545.00,
+      "image":"https://5.imimg.com/data5/UC/IS/MY-7837511/mens-black-shirt-500x500.jpg"
+    }
+  ]
